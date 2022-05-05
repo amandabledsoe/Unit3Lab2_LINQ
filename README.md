@@ -8,8 +8,10 @@ LINQ and Collections
 Use Linq to search the following collection.
 
 ### Build Specifications:
-Create the following array
+Create the following array:
+```
 int[] nums = { 10, 2330, 112233, 12, 949, 3764, 2942, 523863 };
+```
 
 Write code using Linq to answer the following questions: 
 
