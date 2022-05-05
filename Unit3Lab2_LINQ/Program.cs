@@ -58,16 +58,19 @@ Console.WriteLine("Exercise 4:");
 int[] numsBetween10And100 = nums.Where((x) => (x >= 10) && (x <= 100)).ToArray();
 Console.WriteLine("The values in the nums array that are between 10 and 100 are: ");
 Console.Write("{ ");
-Console.ForegroundColor = ConsoleColor.DarkYellow;
 for (int i = 0; i < numsBetween10And100.Length; i++)
 {
     if (i == numsBetween10And100.Length - 1)
     {
+        Console.ForegroundColor = ConsoleColor.DarkYellow;
         Console.Write($"{numsBetween10And100[i]}");
     }
     else
     {
-        Console.Write($"{numsBetween10And100[i]}, ");
+        Console.ForegroundColor = ConsoleColor.DarkYellow;
+        Console.Write($"{numsBetween10And100[i]}");
+        Console.ResetColor();
+        Console.Write(", ");
     }
 }
 Console.ResetColor();
@@ -86,11 +89,16 @@ for (int i = 0; i < numsBetween100KAnd999999.Length; i++)
 {
     if (i == numsBetween100KAnd999999.Length - 1)
     {
+        Console.ForegroundColor = ConsoleColor.DarkYellow;
         Console.Write($"{numsBetween100KAnd999999[i]}");
+        Console.ResetColor();
     }
     else
     {
-        Console.Write($"{numsBetween100KAnd999999[i]}, ");
+        Console.ForegroundColor = ConsoleColor.DarkYellow;
+        Console.Write($"{numsBetween100KAnd999999[i]}");
+        Console.ResetColor();
+        Console.Write(", ");
     }
 }
 Console.ResetColor();
@@ -103,19 +111,22 @@ Console.WriteLine("Exercise 6:");
 int[] numsAreEven = nums.Where((x) => x %2==0).ToArray();
 Console.WriteLine("The even values in the nums array are:");
 Console.Write("{ ");
-Console.ForegroundColor = ConsoleColor.DarkYellow;
 for (int i = 0; i < numsAreEven.Length; i++)
 {
     if (i == numsAreEven.Length - 1)
     {
+        Console.ForegroundColor = ConsoleColor.DarkYellow;
         Console.Write($"{numsAreEven[i]}");
+        Console.ResetColor();
     }
     else
     {
-        Console.Write($"{numsAreEven[i]}, ");
+        Console.ForegroundColor = ConsoleColor.DarkYellow;
+        Console.Write($"{numsAreEven[i]}");
+        Console.ResetColor();
+        Console.Write(", ");
     }
 }
 Console.ResetColor();
 Console.Write(" }");
-Console.WriteLine();
 Console.WriteLine();
