@@ -130,3 +130,9 @@ for (int i = 0; i < numsAreEven.Length; i++)
 Console.ResetColor();
 Console.Write(" }");
 Console.WriteLine();
+Console.Write($"There are ");
+Console.ForegroundColor = ConsoleColor.DarkYellow;
+Console.Write(numsAreEven.Count());
+Console.ResetColor();
+Console.Write(" total even values in the nums array.");
+Console.WriteLine();
