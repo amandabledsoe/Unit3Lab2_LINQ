@@ -1,0 +1,15 @@
+C:\Users\xando\source\repos\Unit3Lab2_LINQ\Unit3Lab2_LINQ\bin\Debug\net6.0\Unit3Lab2_LINQ.exe
+C:\Users\xando\source\repos\Unit3Lab2_LINQ\Unit3Lab2_LINQ\bin\Debug\net6.0\Unit3Lab2_LINQ.deps.json
+C:\Users\xando\source\repos\Unit3Lab2_LINQ\Unit3Lab2_LINQ\bin\Debug\net6.0\Unit3Lab2_LINQ.runtimeconfig.json
+C:\Users\xando\source\repos\Unit3Lab2_LINQ\Unit3Lab2_LINQ\bin\Debug\net6.0\Unit3Lab2_LINQ.dll
+C:\Users\xando\source\repos\Unit3Lab2_LINQ\Unit3Lab2_LINQ\bin\Debug\net6.0\Unit3Lab2_LINQ.pdb
+C:\Users\xando\source\repos\Unit3Lab2_LINQ\Unit3Lab2_LINQ\obj\Debug\net6.0\Unit3Lab2_LINQ.csproj.AssemblyReference.cache
+C:\Users\xando\source\repos\Unit3Lab2_LINQ\Unit3Lab2_LINQ\obj\Debug\net6.0\Unit3Lab2_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xando\source\repos\Unit3Lab2_LINQ\Unit3Lab2_LINQ\obj\Debug\net6.0\Unit3Lab2_LINQ.AssemblyInfoInputs.cache
+C:\Users\xando\source\repos\Unit3Lab2_LINQ\Unit3Lab2_LINQ\obj\Debug\net6.0\Unit3Lab2_LINQ.AssemblyInfo.cs
+C:\Users\xando\source\repos\Unit3Lab2_LINQ\Unit3Lab2_LINQ\obj\Debug\net6.0\Unit3Lab2_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\xando\source\repos\Unit3Lab2_LINQ\Unit3Lab2_LINQ\obj\Debug\net6.0\Unit3Lab2_LINQ.dll
+C:\Users\xando\source\repos\Unit3Lab2_LINQ\Unit3Lab2_LINQ\obj\Debug\net6.0\refint\Unit3Lab2_LINQ.dll
+C:\Users\xando\source\repos\Unit3Lab2_LINQ\Unit3Lab2_LINQ\obj\Debug\net6.0\Unit3Lab2_LINQ.pdb
+C:\Users\xando\source\repos\Unit3Lab2_LINQ\Unit3Lab2_LINQ\obj\Debug\net6.0\Unit3Lab2_LINQ.genruntimeconfig.cache
+C:\Users\xando\source\repos\Unit3Lab2_LINQ\Unit3Lab2_LINQ\obj\Debug\net6.0\ref\Unit3Lab2_LINQ.dll
